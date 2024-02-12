@@ -1,0 +1,14 @@
+C:\Users\briya\OneDrive\Studies\El Salvador\Univo\3rd Semester\541-PROGRAMACION DE COMPUTADORAS II SECCIÓN B\Code\RestauranteGestion\RestauranteGestion\obj\Debug\net8.0\RestauranteGestion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\briya\OneDrive\Studies\El Salvador\Univo\3rd Semester\541-PROGRAMACION DE COMPUTADORAS II SECCIÓN B\Code\RestauranteGestion\RestauranteGestion\obj\Debug\net8.0\RestauranteGestion.AssemblyInfoInputs.cache
+C:\Users\briya\OneDrive\Studies\El Salvador\Univo\3rd Semester\541-PROGRAMACION DE COMPUTADORAS II SECCIÓN B\Code\RestauranteGestion\RestauranteGestion\obj\Debug\net8.0\RestauranteGestion.AssemblyInfo.cs
+C:\Users\briya\OneDrive\Studies\El Salvador\Univo\3rd Semester\541-PROGRAMACION DE COMPUTADORAS II SECCIÓN B\Code\RestauranteGestion\RestauranteGestion\obj\Debug\net8.0\RestauranteGestion.csproj.CoreCompileInputs.cache
+C:\Users\briya\OneDrive\Studies\El Salvador\Univo\3rd Semester\541-PROGRAMACION DE COMPUTADORAS II SECCIÓN B\Code\RestauranteGestion\RestauranteGestion\bin\Debug\net8.0\RestauranteGestion.exe
+C:\Users\briya\OneDrive\Studies\El Salvador\Univo\3rd Semester\541-PROGRAMACION DE COMPUTADORAS II SECCIÓN B\Code\RestauranteGestion\RestauranteGestion\bin\Debug\net8.0\RestauranteGestion.deps.json
+C:\Users\briya\OneDrive\Studies\El Salvador\Univo\3rd Semester\541-PROGRAMACION DE COMPUTADORAS II SECCIÓN B\Code\RestauranteGestion\RestauranteGestion\bin\Debug\net8.0\RestauranteGestion.runtimeconfig.json
+C:\Users\briya\OneDrive\Studies\El Salvador\Univo\3rd Semester\541-PROGRAMACION DE COMPUTADORAS II SECCIÓN B\Code\RestauranteGestion\RestauranteGestion\bin\Debug\net8.0\RestauranteGestion.dll
+C:\Users\briya\OneDrive\Studies\El Salvador\Univo\3rd Semester\541-PROGRAMACION DE COMPUTADORAS II SECCIÓN B\Code\RestauranteGestion\RestauranteGestion\bin\Debug\net8.0\RestauranteGestion.pdb
+C:\Users\briya\OneDrive\Studies\El Salvador\Univo\3rd Semester\541-PROGRAMACION DE COMPUTADORAS II SECCIÓN B\Code\RestauranteGestion\RestauranteGestion\obj\Debug\net8.0\RestauranteGestion.dll
+C:\Users\briya\OneDrive\Studies\El Salvador\Univo\3rd Semester\541-PROGRAMACION DE COMPUTADORAS II SECCIÓN B\Code\RestauranteGestion\RestauranteGestion\obj\Debug\net8.0\refint\RestauranteGestion.dll
+C:\Users\briya\OneDrive\Studies\El Salvador\Univo\3rd Semester\541-PROGRAMACION DE COMPUTADORAS II SECCIÓN B\Code\RestauranteGestion\RestauranteGestion\obj\Debug\net8.0\RestauranteGestion.pdb
+C:\Users\briya\OneDrive\Studies\El Salvador\Univo\3rd Semester\541-PROGRAMACION DE COMPUTADORAS II SECCIÓN B\Code\RestauranteGestion\RestauranteGestion\obj\Debug\net8.0\RestauranteGestion.genruntimeconfig.cache
+C:\Users\briya\OneDrive\Studies\El Salvador\Univo\3rd Semester\541-PROGRAMACION DE COMPUTADORAS II SECCIÓN B\Code\RestauranteGestion\RestauranteGestion\obj\Debug\net8.0\ref\RestauranteGestion.dll

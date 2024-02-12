@@ -1,0 +1,5 @@
+C:\Users\briya\Desktop\Restaurant\RestauranteGestion.exe
+C:\Users\briya\Desktop\Restaurant\RestauranteGestion.dll
+C:\Users\briya\Desktop\Restaurant\RestauranteGestion.deps.json
+C:\Users\briya\Desktop\Restaurant\RestauranteGestion.runtimeconfig.json
+C:\Users\briya\Desktop\Restaurant\RestauranteGestion.pdb
